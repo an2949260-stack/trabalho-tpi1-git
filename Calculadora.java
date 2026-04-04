@@ -1,3 +1,4 @@
+// Comentário antes do método main
 public class Calculadora {
 
     /**
@@ -13,7 +14,7 @@ public class Calculadora {
                 throw new IllegalArgumentException("Operação inválida: " + operacao);
         }
     }
-
+    // Comentário antes do método main
     // Método principal para testar
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
