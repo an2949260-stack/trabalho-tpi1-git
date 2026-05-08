@@ -44,7 +44,7 @@ Aplicar na prática os principais conceitos de Git, incluindo:
 
 
 
-\## 🛠️ Tecnologias utilizadas
+\## Tecnologias utilizadas
 
 
 
@@ -182,7 +182,7 @@ A branch `main` contém a versão final do projeto, consolidando todas as altera
 
 
 
-\## 🔗 Repositório
+\## Repositório
 
 
 
